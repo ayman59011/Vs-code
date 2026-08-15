@@ -1,0 +1,6 @@
+{
+  "name": "Code Editor",
+  "description": "بيئة تطوير متكاملة ومحرر أكواد شبيه بـ VS Code يدعم التلوين التلقائي، تصفح الملفات وقواعد البيانات وتصحيح الأخطاء ومزامنة جيت هاب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
